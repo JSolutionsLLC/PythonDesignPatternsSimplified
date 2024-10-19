@@ -62,7 +62,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jeffrey A. Hallman - Jeff@JSolutions.biz
+Jeff Hallman - Jeff@JSolutions.biz
 
 Project Link: [https://github.com/JSolutionsLLC/PythonDesignPatternsSimplified](https://github.com/JSolutionsLLC/PythonDesignPatternsSimplified)
 
