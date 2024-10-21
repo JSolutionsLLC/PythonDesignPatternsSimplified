@@ -6,10 +6,11 @@
 
 <p>Design patterns are proven solutions to recurring problems in software design and development that provide a structured approach to creating maintainable, flexible, scalable code that promotes reuse.  This concept gained prominence with the 1994 book "Design Patterns:  Elements of Reusable Object-Oriented Software," where 23 design patterns were introduced that have become the foundation for object-oriented software design.
 This book introduces each of the 23 design patterns using simple examples in the Python programming language.  Thus, allowing the user to quickly comprehend and utilize these patterns to enhance their Python applications!
-Pattern Categories</p>
+</p>
 
 <p>Each Python program has been tested using Python V3.12.</p>
 
+<h3>Design Patterns</h3>
 <p>The 23 design patterns in the GoF book are categorized into three groups:</p>
 
 <ul>
